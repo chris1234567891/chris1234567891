@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chris1234567891
 - 👀 I’m interested in fun mathematical solutions to real world problems
 - 🌱 I’m currently learning about shaping our lives around our interpretation of data
-- 💞️ I’m looking to collaborate on fun, ethical, trival or tranformational projects
+- 💞️ I’m looking to collaborate on fun, ethical, trivial or transformational projects
 - 📫 How to reach me ...
 
 <!---
